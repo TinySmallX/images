@@ -9,4 +9,5 @@ readme images
 
 ---
 
-![Скриншот 16 07 23_00 29 22](https://github.com/Binatik/images/assets/47430210/3551ed4a-1da2-4000-9ec6-2524a5dcca9f)
+
+![Fotoram io (1)](https://github.com/Binatik/images/assets/47430210/e187cdbd-fc6b-4bc5-b4e2-33b1c0a468cc)
