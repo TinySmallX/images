@@ -5,9 +5,4 @@ readme images
 
 ---
 
-![image](https://github.com/Binatik/images/assets/47430210/9bac05bb-f2fb-4d7a-82dc-40d9749429d2)
-
----
-
-
-![Fotoram io (1)](https://github.com/Binatik/images/assets/47430210/e187cdbd-fc6b-4bc5-b4e2-33b1c0a468cc)
+![33](https://github.com/Binatik/images/assets/47430210/91c08645-cd25-41ca-9fd4-0ae8fd978d7f)
