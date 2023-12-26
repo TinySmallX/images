@@ -6,3 +6,6 @@
 
 ``Авторизация - получение ответа от сервера``
 ![login](https://github.com/Binatik/images/assets/47430210/6f7e1806-7398-4b67-b40f-431f41b7d129)
+
+``Получение пользователя через токен``
+![getUser](https://github.com/Binatik/images/assets/47430210/08e8dc30-ab45-441b-b363-73c6797e7e18)
