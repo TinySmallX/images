@@ -10,3 +10,5 @@ readme images
 ![Fotoram io](https://github.com/Binatik/images/assets/47430210/8690cd3b-e466-4237-a5ca-47876575553e)
 ![todo](https://github.com/Binatik/images/assets/47430210/c5db9199-701a-4993-b111-7d40e8fa315a)
 ![movie](https://github.com/Binatik/images/assets/47430210/654771dc-3b98-4d85-82f5-ae76d2b74e72)
+
+![todo-t](https://github.com/Binatik/images/assets/47430210/3f9862b8-b6a5-494c-8207-2c8bea677ee0)
